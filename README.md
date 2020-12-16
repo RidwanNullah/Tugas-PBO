@@ -1,2 +1,2 @@
 # Tugas-PBO
-Pemroraman Berorientasi Objek
+Pemrograman Berorientasi Objek
